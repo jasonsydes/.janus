@@ -1,0 +1,4 @@
+Description of plugins.
+
+kwbd
+The script below defines the :Bclose command that deletes a buffer, while keeping the current window layout (no windows are closed).
