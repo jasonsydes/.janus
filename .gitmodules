@@ -7,3 +7,6 @@
 [submodule "obviousmode"]
 	path = obviousmode
 	url = https://github.com/bsl/obviousmode
+[submodule "session"]
+	path = session
+	url = https://github.com/xolox/vim-session
