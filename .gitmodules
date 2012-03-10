@@ -4,3 +4,6 @@
 [submodule "align"]
 	path = align
 	url = https://github.com/tsaleh/vim-align
+[submodule "obviousmode"]
+	path = obviousmode
+	url = https://github.com/bsl/obviousmode
