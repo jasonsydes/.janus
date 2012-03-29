@@ -10,6 +10,3 @@
 [submodule "vim-pad"]
 	path = vim-pad
 	url = https://github.com/fmoralesc/vim-pad
-[submodule "minibufexpl"]
-	path = minibufexpl
-	url = https://github.com/fholgado/minibufexpl.vim
