@@ -13,3 +13,6 @@
 [submodule "buffet"]
 	path = buffet
 	url = https://github.com/sandeepcr529/Buffet.vim
+[submodule "easytags"]
+	path = easytags
+	url = https://github.com/xolox/vim-easytags
