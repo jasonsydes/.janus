@@ -16,6 +16,3 @@
 [submodule "repeat"]
 	path = repeat
 	url = https://github.com/tpope/vim-repeat
-[submodule "camelcasemotion"]
-	path = camelcasemotion
-	url = https://github.com/vim-scripts/camelcasemotion
