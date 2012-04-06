@@ -13,3 +13,6 @@
 [submodule "easytags"]
 	path = easytags
 	url = https://github.com/xolox/vim-easytags
+[submodule "repeat"]
+	path = repeat
+	url = https://github.com/tpope/vim-repeat
