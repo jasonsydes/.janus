@@ -16,3 +16,6 @@
 [submodule "repeat"]
 	path = repeat
 	url = https://github.com/tpope/vim-repeat
+[submodule "ruby-refactoring"]
+	path = ruby-refactoring
+	url = https://github.com/ecomba/vim-ruby-refactoring
