@@ -22,3 +22,6 @@
 [submodule "YankRing"]
 	path = YankRing
 	url = https://github.com/vim-scripts/YankRing.vim
+[submodule "TaskList.vim"]
+	path = TaskList.vim
+	url = https://github.com/vim-scripts/TaskList.vim
