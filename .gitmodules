@@ -22,3 +22,6 @@
 [submodule "YankRing"]
 	path = YankRing
 	url = https://github.com/vim-scripts/YankRing.vim
+[submodule "clang_complete"]
+	path = clang_complete
+	url = https://github.com/Rip-Rip/clang_complete
