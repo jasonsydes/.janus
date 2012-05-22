@@ -22,6 +22,3 @@
 [submodule "YankRing"]
 	path = YankRing
 	url = https://github.com/vim-scripts/YankRing.vim
-[submodule "cocoa.vim"]
-	path = cocoa.vim
-	url = https://github.com/msanders/cocoa.vim
