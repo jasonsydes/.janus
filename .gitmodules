@@ -34,3 +34,6 @@
 [submodule "TaskList"]
 	path = TaskList
 	url = https://github.com/vim-scripts/TaskList.vim
+[submodule "searchfold"]
+	path = searchfold
+	url = https://github.com/vim-scripts/searchfold.vim
