@@ -37,3 +37,6 @@
 [submodule "searchfold"]
 	path = searchfold
 	url = https://github.com/vim-scripts/searchfold.vim
+[submodule "cheat"]
+	path = cheat
+	url = https://github.com/vim-scripts/cheat.vim
