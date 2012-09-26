@@ -22,3 +22,6 @@
 [submodule "YankRing"]
 	path = YankRing
 	url = https://github.com/vim-scripts/YankRing.vim
+[submodule "pyflakes-pathogen"]
+	path = pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen
