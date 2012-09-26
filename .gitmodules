@@ -31,3 +31,6 @@
 [submodule "pep8"]
 	path = pep8
 	url = https://github.com/vim-scripts/pep8.git
+[submodule "TaskList"]
+	path = TaskList
+	url = https://github.com/vim-scripts/TaskList.vim
