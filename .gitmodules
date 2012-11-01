@@ -19,3 +19,6 @@
 [submodule "ruby-refactoring"]
 	path = ruby-refactoring
 	url = https://github.com/ecomba/vim-ruby-refactoring
+[submodule "vim-yankstack"]
+	path = vim-yankstack
+	url = https://github.com/maxbrunsfeld/vim-yankstack
