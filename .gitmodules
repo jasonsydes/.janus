@@ -19,6 +19,3 @@
 [submodule "ruby-refactoring"]
 	path = ruby-refactoring
 	url = https://github.com/ecomba/vim-ruby-refactoring
-[submodule "YankRing"]
-	path = YankRing
-	url = https://github.com/vim-scripts/YankRing.vim
