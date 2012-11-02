@@ -22,3 +22,6 @@
 [submodule "yankstack"]
 	path = yankstack
 	url = https://github.com/maxbrunsfeld/vim-yankstack
+[submodule "indent-guides"]
+	path = indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides
