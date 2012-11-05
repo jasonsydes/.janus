@@ -19,6 +19,24 @@
 [submodule "ruby-refactoring"]
 	path = ruby-refactoring
 	url = https://github.com/ecomba/vim-ruby-refactoring
+[submodule "pyflakes-pathogen"]
+	path = pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen
+[submodule "pydoc"]
+	path = pydoc
+	url = https://github.com/fs111/pydoc.vim
+[submodule "pep8"]
+	path = pep8
+	url = https://github.com/vim-scripts/pep8.git
+[submodule "TaskList"]
+	path = TaskList
+	url = https://github.com/vim-scripts/TaskList.vim
+[submodule "searchfold"]
+	path = searchfold
+	url = https://github.com/vim-scripts/searchfold.vim
+[submodule "cheat"]
+	path = cheat
+	url = https://github.com/vim-scripts/cheat.vim
 [submodule "yankstack"]
 	path = yankstack
 	url = https://github.com/maxbrunsfeld/vim-yankstack
