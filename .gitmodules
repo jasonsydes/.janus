@@ -19,9 +19,6 @@
 [submodule "ruby-refactoring"]
 	path = ruby-refactoring
 	url = https://github.com/ecomba/vim-ruby-refactoring
-[submodule "YankRing"]
-	path = YankRing
-	url = https://github.com/vim-scripts/YankRing.vim
 [submodule "pyflakes-pathogen"]
 	path = pyflakes-pathogen
 	url = https://github.com/mitechie/pyflakes-pathogen
@@ -40,3 +37,9 @@
 [submodule "cheat"]
 	path = cheat
 	url = https://github.com/vim-scripts/cheat.vim
+[submodule "yankstack"]
+	path = yankstack
+	url = https://github.com/maxbrunsfeld/vim-yankstack
+[submodule "indent-guides"]
+	path = indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides
