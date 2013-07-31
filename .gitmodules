@@ -49,3 +49,6 @@
 [submodule "SimpylFold"]
 	path = SimpylFold
 	url = https://github.com/tmhedberg/SimpylFold
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
